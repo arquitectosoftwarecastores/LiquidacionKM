@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.6.0_45-b06 (Sun Microsystems Inc.)
+Class-Path: lib/aopalliance.jar lib/CastoresDao.jar lib/CriteriaApi.ja
+ r lib/DataUtilsApi.jar lib/guice-3.0.jar lib/guice-assistedinject-3.0
+ .jar lib/guice-grapher-3.0.jar lib/guice-jmx-3.0.jar lib/guice-jndi-3
+ .0.jar lib/guice-multibindings-3.0.jar lib/guice-persist-3.0.jar lib/
+ guice-servlet-3.0.jar lib/guice-spring-3.0.jar lib/guice-struts2-plug
+ in-3.0.jar lib/guice-throwingproviders-3.0.jar lib/javax.inject.jar l
+ ib/mysql-connector-java-5.1.7-bin.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: liquidacionkm.LiquidacionKM
+

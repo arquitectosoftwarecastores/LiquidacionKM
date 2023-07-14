@@ -25,10 +25,10 @@ public class LiquidacionKMService {
 
     public static void main(String[] args) {
         if (args.length > 0) {
-            System.out.println("LiquidacionKM ver. 13 - 27-05-2016 By Ing. Fernando Gomez.");
+            System.out.println("LiquidacionKM ver. 14 - 14-07-2023 By Alan Dominguez.");
             return;
         }
-        System.out.println("LiquidacionKM ver. 9 - 27-05-2016 By Ing. Fernando Gomez.");
+        System.out.println("LiquidacionKM ver. 14 - 14-07-2023 By Alan Dominguez.");
         getFletes();
     }
 

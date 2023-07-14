@@ -250,7 +250,7 @@ public class ImporteService {
         if (tipoUnidad == null) {
             return 0.0D;
         }
-        double fleteOptimo = tipoUnidad.getRendimientomensual() / 30.0D * diasTranscurridos;
+        double fleteOptimo = tipoUnidad.getRendimientomensual() / 30.4D * diasTranscurridos;
 
         QuimicoCustomDao quimicoCustomDao = (QuimicoCustomDao) inj.getInstance(QuimicoCustomDao.class);
         Quimicos quimico = quimicoCustomDao.find(new Quimicos(Integer.parseInt(noEconomico)), conexion);

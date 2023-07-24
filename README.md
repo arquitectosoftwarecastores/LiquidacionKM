@@ -1,11 +1,11 @@
 # LiquidacionKM
 
-## Versión: 13
+## Versión: 2.0.0.0
 - __Ticket/Proyecto:__ N/A
-- __Autor:__ N/A
-- __Fecha:__  N/A
+- __Autor:__ Alan Dominguez y Cesar Payan
+- __Fecha:__  14 de Julio 2023
 - __Descripción:__ 
-    -  N/A
+    -  Se cambia el calculo de flete optimo para que en vez de que considere 30 dias sean 30.4 dias
 --------
 
 ## Configuración técnica
